@@ -1,0 +1,164 @@
+[
+  [
+    {
+      "id": "250",
+      "firstname": "Robert",
+      "lastname": "Weeks",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "NULL",
+      "plastname": "Weeks"
+    },
+    {
+      "id": "19205",
+      "firstname": "Ryan",
+      "lastname": "Lee",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Lee"
+    },
+    {
+      "id": "20153",
+      "firstname": "Stephen",
+      "lastname": "Izevbizua",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Izevbizua"
+    },
+    {
+      "id": "16759",
+      "firstname": "Dorothy",
+      "lastname": "Blair",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Blair"
+    },
+    {
+      "id": "433",
+      "firstname": "Henry",
+      "lastname": "Bovell",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Bovell"
+    },
+    {
+      "id": "455",
+      "firstname": "Michael",
+      "lastname": "Robinson",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Robinson"
+    }
+  ],
+  [
+    {
+      "id": "250",
+      "firstname": "Robert",
+      "lastname": "Weeks",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "NULL",
+      "plastname": "Weeks"
+    },
+    {
+      "id": "19205",
+      "firstname": "Ryan",
+      "lastname": "Lee",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Lee"
+    },
+    {
+      "id": "20153",
+      "firstname": "Stephen",
+      "lastname": "Izevbizua",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Izevbizua"
+    },
+    {
+      "id": "16759",
+      "firstname": "Dorothy",
+      "lastname": "Blair",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Blair"
+    },
+    {
+      "id": "433",
+      "firstname": "Henry",
+      "lastname": "Bovell",
+      "middleinitial": "",
+      "suffix": "NULL",
+      "pfirstname": "",
+      "plastname": "Bovell"
+    }
+  ],
+  [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "51"
+    },
+    {
+      "id": "53"
+    },
+    {
+      "id": "57"
+    },
+    {
+      "id": "59"
+    },
+    {
+      "id": "60"
+    },
+    {
+      "id": "62"
+    },
+    {
+      "id": "63"
+    },
+    {
+      "id": "65"
+    },
+    {
+      "id": "67"
+    }
+  ],
+  [
+    {
+      "id": "1617144",
+      "employeeid": "31211",
+      "timeoffeventid": "3075107",
+      "activityid": "809",
+      "timeoffchoiceid": "NULL",
+      "timeoffchoicerank": "NULL",
+      "timeoffrule": "2",
+      "totalminutes": "450",
+      "starttime": "2019-02-01 13:00:00.000",
+      "endtime": "2019-02-01 21:00:00.000",
+      "isdirty": "0",
+      "dirtytime": "2019-02-01 08:30:39.000",
+      "status": "1",
+      "hoursperday": "1:7.5",
+      "origminutes": "450",
+      "expirydate": "NULL",
+      "orighoursperday": ""
+    }
+  ]
+]

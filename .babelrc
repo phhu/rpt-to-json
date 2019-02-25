@@ -1,0 +1,9 @@
+{
+  "presets": ["es2015","minify"],
+  "comments": false,
+  "env": {
+    "production": {
+      "presets": ["minify"]
+    }
+  }
+}
