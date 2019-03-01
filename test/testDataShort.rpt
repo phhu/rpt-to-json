@@ -1,0 +1,17 @@
+id          value
+----------- ---------------
+1           0
+-23333      another
+-23333      test
+-23334      Not everything
+-23335      false
+
+(5 row(s) affected)
+
+id
+-----------
+-2422012
+-2422011
+-2422010
+
+(3 row(s) affected)

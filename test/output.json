@@ -159,6 +159,44 @@
       "origminutes": "450",
       "expirydate": "NULL",
       "orighoursperday": ""
+    },
+    {
+      "id": "1617179",
+      "employeeid": "7906",
+      "timeoffeventid": "3075164",
+      "activityid": "809",
+      "timeoffchoiceid": "NULL",
+      "timeoffchoicerank": "NULL",
+      "timeoffrule": "2",
+      "totalminutes": "450",
+      "starttime": "2019-02-01 13:00:00.000",
+      "endtime": "2019-02-01 21:00:00.000",
+      "isdirty": "0",
+      "dirtytime": "2019-02-01 08:30:48.000",
+      "status": "1",
+      "hoursperday": "1:7.5",
+      "origminutes": "450",
+      "expirydate": "NULL",
+      "orighoursperday": ""
+    },
+    {
+      "id": "1617088",
+      "employeeid": "34055",
+      "timeoffeventid": "3075033",
+      "activityid": "809",
+      "timeoffchoiceid": "NULL",
+      "timeoffchoicerank": "NULL",
+      "timeoffrule": "2",
+      "totalminutes": "450",
+      "starttime": "2019-02-01 13:30:00.000",
+      "endtime": "2019-02-01 21:30:00.000",
+      "isdirty": "0",
+      "dirtytime": "2019-02-01 08:30:14.000",
+      "status": "1",
+      "hoursperday": "1:7.5",
+      "origminutes": "450",
+      "expirydate": "NULL",
+      "orighoursperday": ""
     }
   ]
 ]

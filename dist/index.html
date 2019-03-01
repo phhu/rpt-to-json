@@ -1,0 +1,46 @@
+<html>
+<head>
+  <title>Rpt to json</title>
+  <style>
+  textarea {
+    width: 95%;
+    height: 40%;
+  }
+  </style>
+</head>
+<body>
+  <textarea id="input" name="input" ></textarea>
+  <br /><textarea id="output" name="output" ></textarea>
+  <br /><button id="convert rpt to json" onclick="convert();">Convert</button>
+
+  <script src="bundle.js" ></script>
+  <script>
+    function convert(){
+      var input = document.getElementById("input")
+        ,output = document.getElementById("output")
+      ;  
+      output.value = JSON.stringify(parseRptToJson(input.value), null,2);
+    }
+  </script>
+  <pre>
+id          value
+----------- ---------------
+1           0
+-23333      another
+-23333      test
+-23334      Not everything
+-23335      false
+
+(5 row(s) affected)
+
+id
+-----------
+-2422012
+-2422011
+-2422010
+
+(3 row(s) affected)
+</pre>
+</body>
+
+</html>
