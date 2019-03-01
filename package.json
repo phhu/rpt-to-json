@@ -1,6 +1,6 @@
 {
   "name": "rpt-to-json",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Parses SQL server rpt text output to json.",
   "homepage": "https://github.com/phhu/rpt-to-json",
   "repository": {
@@ -16,7 +16,7 @@
     "test": "mocha",
     "webpack": "webpack",
     "start:dev": "webpack-dev-server",
-    "publish": "npm run webpack && npm run build && npm publish"
+    "pub": "npm run webpack && npm run build && npm publish"
   },
   "keywords": [],
   "author": "",
