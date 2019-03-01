@@ -4,7 +4,7 @@ This coverts SQL server textual output (.rpt) to JSON.
 npm install rptToJson
 ```
 
-```
+```javascript
 const {parseRptToJson} = require('rptToJson');
 
 const rpt = 
