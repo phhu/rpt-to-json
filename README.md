@@ -1,5 +1,7 @@
 This coverts SQL server textual output (.rpt) to JSON. 
 
+See https://unpkg.com/rpt-to-json/dist/index.html for a web version.
+
 ```
 npm install rptToJson
 ```
